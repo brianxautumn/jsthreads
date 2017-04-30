@@ -1,0 +1,9 @@
+{
+    "name": "jsthreads",
+    "version": "0.0.0",
+    "keywords": [
+        "threads"
+    ],
+    "author": "Brian Parra",
+    "dependencies": {}
+}
