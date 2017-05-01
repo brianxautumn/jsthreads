@@ -5,5 +5,10 @@
         "threads"
     ],
     "author": "Brian Parra",
-    "dependencies": {}
+    "devDependencies": {
+        "webpack": "^1.13.3"
+    },
+    "scripts": {
+    "build-tests": "TESTS=true webpack"
+  }
 }
